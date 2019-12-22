@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/p-miller/static/css/main.d1b05096.chunk.css",
+    "main.js": "/p-miller/static/js/main.769b1f3d.chunk.js",
+    "main.js.map": "/p-miller/static/js/main.769b1f3d.chunk.js.map",
+    "runtime-main.js": "/p-miller/static/js/runtime-main.7596f1c5.js",
+    "runtime-main.js.map": "/p-miller/static/js/runtime-main.7596f1c5.js.map",
+    "static/js/2.41c0e3b5.chunk.js": "/p-miller/static/js/2.41c0e3b5.chunk.js",
+    "static/js/2.41c0e3b5.chunk.js.map": "/p-miller/static/js/2.41c0e3b5.chunk.js.map",
+    "index.html": "/p-miller/index.html",
+    "precache-manifest.db8e88b20c4cc9e82f0869957ba5c8ed.js": "/p-miller/precache-manifest.db8e88b20c4cc9e82f0869957ba5c8ed.js",
+    "service-worker.js": "/p-miller/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/p-miller/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.41c0e3b5.chunk.js.LICENSE": "/p-miller/static/js/2.41c0e3b5.chunk.js.LICENSE",
+    "static/media/healthcare.png": "/p-miller/static/media/healthcare.3f35d139.png",
+    "static/media/hearth.png": "/p-miller/static/media/hearth.0f807958.png",
+    "static/media/logo.png": "/p-miller/static/media/logo.69272775.png",
+    "static/media/male assistant profile.png": "/p-miller/static/media/male assistant profile.668605c5.png",
+    "static/media/map.PNG": "/p-miller/static/media/map.b34c85bd.PNG",
+    "static/media/office.jpg": "/p-miller/static/media/office.9c84c66c.jpg",
+    "static/media/profile doc transperent.png": "/p-miller/static/media/profile doc transperent.de578f1b.png",
+    "static/media/welcome.jpg": "/p-miller/static/media/welcome.0c9a1fb2.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7596f1c5.js",
+    "static/js/2.41c0e3b5.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.769b1f3d.chunk.js"
+  ]
+}
